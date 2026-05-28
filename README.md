@@ -1,0 +1,2 @@
+extract_aal_timeserries.py 是用于从预处理完的fMRI中提取AAL_ROI的时间序列，以便后续选取不同的时间窗口大小
+step2_new 是模型的Demo，共10个被试
